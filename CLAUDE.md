@@ -2,20 +2,26 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Migration Notice
+
+This is the **legacy** version of the website, using Wowchemy/Academic theme (v5.7.1). It is being migrated to a new version based on HugoBlox Academic, located at `~/Documents/website-hugoblox`. This repo remains the live deployed site at michaeldbauer.com for now.
+
 ## Build and Development Commands
 
+This site requires Hugo v0.108.0 (max ~v0.122). The system Hugo (v0.156.0) is too new and will not work. Use the standalone `hugo-old.exe` binary in `~/bin/` instead.
+
 ```bash
-# Local development server (requires Hugo v0.108.0)
-hugo server
+# Local development server
+hugo-old.exe server
 
 # Build for production
-hugo --gc --minify
+hugo-old.exe --gc --minify
 
 # Build with draft/future content
-hugo --gc --minify --buildFuture
+hugo-old.exe --gc --minify --buildFuture
 ```
 
-The site is deployed via Netlify. Pushing to master triggers automatic builds. Deploy previews build with `--buildFuture` to include draft/future-dated content.
+The site is deployed via Netlify. Pushing to master triggers automatic builds. Netlify pins Hugo 0.108.0 in `netlify.toml`, so remote builds work regardless of local Hugo version. Deploy previews build with `--buildFuture` to include draft/future-dated content.
 
 ## Architecture
 

@@ -19,7 +19,14 @@
       "Bash(npm install *)",
       "Bash(pnpm install *)",
       "Bash(hugo server *)",
-      "Bash(pip install *)"
+      "Bash(pip install *)",
+      "Bash(unzip -o hugo-old.zip hugo.exe -d hugo-old-tmp)",
+      "Bash(mv hugo-old-tmp/hugo.exe hugo-old.exe)",
+      "Bash(rmdir hugo-old-tmp *)",
+      "Bash(rm hugo-old.zip)",
+      "Bash(./hugo-old.exe version *)",
+      "Bash(hugo-old.exe server *)",
+      "Bash(taskkill //F //IM hugo-old.exe)"
     ]
   }
 }
