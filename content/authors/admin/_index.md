@@ -1,6 +1,6 @@
 ---
 title: Michael D. Bauer
-role: Senior Research Advisor
+role: Vice President
 bio: My research areas are monetary economics, macro-finance, and climate finance.
 interests:
   - Monetary Economics
@@ -43,7 +43,7 @@ highlight_name: true
 
 Welcome to my website! I am a research economist focusing on monetary economics, macro-finance and climate finance.
 
-- Senior Research Advisor at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/)
+- Vice President of Financial Research at the [Federal Reserve Bank of San Francisco](https://www.frbsf.org/)
 - Director of the [Center for Monetary Research](https://www.frbsf.org/about-us/economic-research/center-for-monetary-research/) at the SF Fed
 - Lecturer at [UC Berkeley, Haas School of Business](https://haas.berkeley.edu/)
 - Associate Editor at the Journal of Business & Economic Statistics, the Journal of Financial Econometrics, and the Journal of Monetary Economics

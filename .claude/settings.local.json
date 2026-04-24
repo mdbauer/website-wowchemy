@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /c/Users/mbauer/Documents/new-site log --oneline -20)",
+      "Bash(xargs -I {} sh -c 'echo \"=== {} ===\" && head -30 \"{}\"')",
+      "Bash(gh api *)",
+      "Bash(where gh *)",
+      "Read(//c/Program Files/GitHub CLI/**)",
+      "Read(//c/Program Files \\(x86\\)/GitHub CLI/**)",
+      "Bash(cmd *)",
+      "Bash(cp \"/c/Users/mbauer/FRB SF Dropbox/Michael Bauer/Other/CV/new/cv_bauer.pdf\" /c/Users/mbauer/Documents/website-hugoblox/static/uploads/cv_bauer.pdf)",
+      "Bash(rm /c/Users/mbauer/Documents/website-hugoblox/static/uploads/resume.pdf)",
+      "Bash(hugo version *)",
+      "Bash(where hugo *)",
+      "Bash(hugo env *)",
+      "Bash(hugo)",
+      "Read(//c/c/Users/mbauer/**)",
+      "Bash(unzip -o hugo_update.zip hugo.exe -d /c/Users/mbauer/bin/)",
+      "Bash(npm install *)",
+      "Bash(pnpm install *)",
+      "Bash(hugo server *)",
+      "Bash(pip install *)"
+    ]
+  }
+}

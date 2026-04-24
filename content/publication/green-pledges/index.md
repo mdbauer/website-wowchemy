@@ -5,10 +5,10 @@ title: "Corporate Green Pledges"
 authors: ["Michael D. Bauer", "Daniel Huber", "Eric A. Offner", "Ole Wilms"]
 date: 2026-03-12
 featured: true
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: "FRBSF Working Paper. Revise-and-resubmit at *Review of Financial Studies*"
+publication: "Conditionally accepted at *Review of Financial Studies*"
 
 # Abstract and optional shortened version.
 abstract: "We build a novel dataset of timestamped corporate decarbonization commitments---green pledges---for U.S. public firms by classifying news articles with large language models and human validation. Firms announcing green pledges tend to be larger and browner than other firms, both within and across industries.  Green pledges significantly raise stock prices, consistent with a reduction in the carbon premium, and predict sizable declines in future carbon emissions and emission intensities. These effects tend to be strongest for firms in brown industries. Green pledges thus appear credible, convey relevant new information to investors, and provide meaningful financial incentives to decarbonize."
