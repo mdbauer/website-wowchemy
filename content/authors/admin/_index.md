@@ -12,7 +12,7 @@ social:
     link: mailto:michael.d.bauer@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/michaelbauer_hh
+    link: https://x.com/michaelbauer_hh
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=axcAtmoAAAAJ
@@ -51,11 +51,7 @@ Welcome to my website! I am a research economist focusing on monetary economics,
 [IMFS](https://www.imfs-frankfurt.de/en.html)
 - Senior Research Fellow at the [University of Hamburg](https://www.uni-hamburg.de)
 
-My research mainly studies the role of financial markets for the macroeconomy, monetary policy, and the green
-transition. I am particularly interested in understanding the effects of monetary policy on the yield curve
-and asset prices---including monetary policy surprises, forward guidance, monetary policy communication,
-quantitative easing, monetary policy uncertainty, and risks to the economic outlook. More recently I've been
-studying issues in climate economics and climate finance, including the pricing of climate risks.
+My research studies the role of financial markets for the macroeconomy, monetary policy, and the green transition. I am particularly interested in the effects of monetary policy on the yield curve and asset prices---including monetary policy surprises, forward guidance, communication, quantitative easing, and risks to the outlook. I also work on climate economics and climate finance, including the pricing of climate risks.
 
 [CV](files/cv_mbauer.pdf) :small_blue_diamond: [Fed Website](https://www.frbsf.org/economic-research/economists/michael-bauer/) :small_blue_diamond: 
 [Google Scholar](https://scholar.google.com/citations?user=axcAtmoAAAAJ) :small_blue_diamond:

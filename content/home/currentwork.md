@@ -22,7 +22,7 @@ Revise-and-resubmit at *Journal of Monetary Economics*
 **[Prices and Monetary Policy: The Role of Financial Constraints](/publication/swedish-firms)**  
 with Alexander Czarnota and Mathias Klein
 
-**Risk Appetite and the Macroeconomic Effects of Monetary Policy**   
+**[Risk Appetite and Monetary Transmission](/publication/risk-appetite)**   
 with Maik Schmeling and Andreas Schrimpf
 
 **News in Fed Speeches**   

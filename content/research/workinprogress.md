@@ -15,9 +15,6 @@ design:
   
 ---
 
-**Risk Appetite and the Macroeconomic Effects of Monetary Policy**   
-with Maik Schmeling and Andreas Schrimpf
-
 **News in Fed Speeches**   
 with Sophia Kazinnik and Daniel Wilson
 

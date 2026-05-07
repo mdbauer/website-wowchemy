@@ -21,7 +21,14 @@ hugo-old.exe --gc --minify
 hugo-old.exe --gc --minify --buildFuture
 ```
 
-The site is deployed via Netlify. Pushing to master triggers automatic builds. Netlify pins Hugo 0.108.0 in `netlify.toml`, so remote builds work regardless of local Hugo version. Deploy previews build with `--buildFuture` to include draft/future-dated content.
+## Hosting and Deployment
+
+- **Live URL**: https://www.michaeldbauer.com
+- **Host**: Netlify
+- **GitHub repo**: `mdbauer/new-site`
+- **Deploy trigger**: Pushing to `master` triggers automatic Netlify builds
+- **Hugo version on Netlify**: 0.108.0 (pinned in `netlify.toml`)
+- **Deploy previews**: Build with `--buildFuture` to include draft/future-dated content
 
 ## Architecture
 
@@ -126,3 +133,6 @@ Add an entry to `config/_default/menus.yaml` under `main:` with `name`, `url`, a
 
 **Updating author profile:**
 Edit `content/authors/admin/_index.md` (name, bio, interests, education, affiliations, social links).
+
+**Updating the CV:**
+The CV source is at `/home/mdbauer/FRB SF Dropbox/Michael Bauer/Other/CV/new/cv_bauer.tex`. Build with `pdflatex cv_bauer.tex` in that directory, then copy the PDF to `static/files/cv_mbauer.pdf`. The CV and website must stay consistent — when a paper's status changes (accepted, published, new links), update both the website publication page and the CV entry, rebuild, and copy.

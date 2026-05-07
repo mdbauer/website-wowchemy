@@ -26,7 +26,24 @@
       "Bash(rm hugo-old.zip)",
       "Bash(./hugo-old.exe version *)",
       "Bash(hugo-old.exe server *)",
-      "Bash(taskkill //F //IM hugo-old.exe)"
+      "Bash(taskkill //F //IM hugo-old.exe)",
+      "Bash(curl *)",
+      "Bash(tar -xzf /tmp/hugo_extended_0.122.0_linux-amd64.tar.gz -C /tmp hugo)",
+      "Bash(mv /tmp/hugo ~/bin/hugo-old.exe)",
+      "Bash(chmod +x ~/bin/hugo-old.exe)",
+      "Bash(pkill -f \"hugo-old.exe server\")",
+      "WebFetch(domain:doi.org)",
+      "Bash(pdflatex cv_bauer.tex)",
+      "WebFetch(domain:localhost)",
+      "Bash(npx -y @playwright/mcp@latest --help)",
+      "Bash(sudo -E bash -)",
+      "Bash(claude mcp *)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_snapshot",
+      "Bash(hugo-old.exe)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)",
+      "Bash(git add *)"
     ]
   }
 }

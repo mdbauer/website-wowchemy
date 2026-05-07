@@ -16,6 +16,8 @@ abstract: "Putting a price on carbon emissions helps mitigate climate change but
 links: 
 - name: "PDF"
   url: "/files/bkr_carbon_pricing.pdf"
+- name: "Carbon policy surprises"
+  url: "https://github.com/dkaenzig/carbon-policy-surprises-update"
 - name: "Brookings WP"
   url: "https://www.brookings.edu/articles/carbon-pricing-and-inflation-expectations/"
 
